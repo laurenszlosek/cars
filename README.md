@@ -1,3 +1,10 @@
+Name: Lauren Szlosek
+Student ID: 2365979
+Email: szlosek@chapman.edu
+Class: 298-02
+Assignment: cars
+
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
