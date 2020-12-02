@@ -1,7 +1,7 @@
 #!/bin/bash
 #cars.sh
 #Lauren Szlosek
-while True
+while true
 do
 echo -n "Type 1 to enter new car.
 Type 2 to display the list of cars.
